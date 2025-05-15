@@ -9,7 +9,7 @@
   </div>
 </template>
 <script setup>
-  import HeroSection from '@/components/HeroSection.vue'
+  import HeroSections from '@/components/HeroSection.vue'
   import FeaturesSection from '@/components/FeaturesSection.vue'
   import PlanosSection from '@/components/PlanosSection.vue'
   import FaqSection from '@/components/FaqSection.vue'
