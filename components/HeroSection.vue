@@ -1,5 +1,8 @@
 <template>
   <section class="bg-blue-600 text-white py-20">
+    <div class="absolute top-6 left-6 centers">
+      <img src="/logo.png" alt="Logo da Empresa" class="w-32 md:w-40">
+    </div>
     <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between">
       <div class="md:w-1/2 mb-10 md:mb-0 text-center md:text-left">
         <h1 class="text-4xl md:text-5xl font-bold leading-tight mb-4">Transforme sua oficina com o AutoRevise</h1>
