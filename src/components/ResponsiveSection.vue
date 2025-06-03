@@ -7,18 +7,18 @@
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <div class="reveal">
           <img 
-            src="https://images.pexels.com/photos/6802042/pexels-photo-6802042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+            src="../assets/multitelas.png" 
             alt="AutoRevise em múltiplos dispositivos" 
             class="rounded-xl shadow-xl"
           />
         </div>
         
         <div class="reveal">
-          <h2 class="text-3xl md:text-4xl font-display font-bold text-secondary-800 mb-6">
+          <h2 class="text-3xl md:text-4xl font-display font-bold text-white mb-6">
             Acesse de qualquer lugar, em qualquer dispositivo
           </h2>
           
-          <p class="text-lg text-secondary-600 mb-6">
+          <p class="text-lg text-primary-50 mb-6">
             O AutoRevise é uma solução 100% web, otimizada para funcionar 
             perfeitamente tanto em computadores quanto em dispositivos móveis.
           </p>
@@ -32,7 +32,7 @@
                   viewBox="0 0 24 24" 
                   stroke-width="1.5" 
                   stroke="currentColor" 
-                  class="w-5 h-5 text-accent-500"
+                  class="w-5 h-5 text-accent-600"
                 >
                   <path 
                     stroke-linecap="round" 
@@ -41,8 +41,8 @@
                   />
                 </svg>
               </div>
-              <p class="text-secondary-600">
-                <span class="font-medium text-secondary-800">Interface responsiva:</span> Adapta-se automaticamente ao tamanho da tela do seu dispositivo.
+              <p class="text-white">
+                <span class="font-medium text-accent-600">Interface responsiva:</span> Adapta-se automaticamente ao tamanho da tela do seu dispositivo.
               </p>
             </li>
             
@@ -54,7 +54,7 @@
                   viewBox="0 0 24 24" 
                   stroke-width="1.5" 
                   stroke="currentColor" 
-                  class="w-5 h-5 text-accent-500"
+                  class="w-5 h-5 text-accent-600"
                 >
                   <path 
                     stroke-linecap="round" 
@@ -63,8 +63,8 @@
                   />
                 </svg>
               </div>
-              <p class="text-secondary-600">
-                <span class="font-medium text-secondary-800">Sincronização em tempo real:</span> Atualizações instantâneas em todos os dispositivos conectados.
+              <p class="text-white">
+                <span class="font-medium text-accent-600">Sincronização em tempo real:</span> Atualizações instantâneas em todos os dispositivos conectados.
               </p>
             </li>
             
@@ -76,7 +76,7 @@
                   viewBox="0 0 24 24" 
                   stroke-width="1.5" 
                   stroke="currentColor" 
-                  class="w-5 h-5 text-accent-500"
+                  class="w-5 h-5 text-accent-600"
                 >
                   <path 
                     stroke-linecap="round" 
@@ -85,15 +85,15 @@
                   />
                 </svg>
               </div>
-              <p class="text-secondary-600">
-                <span class="font-medium text-secondary-800">Acesso seguro:</span> Proteção de dados avançada independentemente do dispositivo utilizado.
+              <p class="text-white">
+                <span class="font-medium text-accent-600">Acesso seguro:</span> Proteção de dados avançada independentemente do dispositivo utilizado.
               </p>
             </li>
           </ul>
           
           <a 
             href="#pricing" 
-            class="inline-block bg-primary-600 hover:bg-primary-700 text-white font-medium px-6 py-3 rounded-lg text-lg transition-colors"
+            class="inline-block bg-accent-600 hover:bg-primary-50 text-black font-medium px-6 py-3 rounded-lg text-lg transition-colors"
           >
             Experimente Agora
           </a>

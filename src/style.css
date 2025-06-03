@@ -48,6 +48,6 @@ body {
 @media (prefers-color-scheme: dark) {
   :root {
     color: rgba(255, 255, 255, 0.9);
-    background-color: #0f172a;
+    background-color: #000;
   }
 }

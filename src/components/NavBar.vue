@@ -25,7 +25,8 @@ const toggleMenu = () => {
           <a href="#features" class="text-secondary-600 hover:text-primary-600 px-3 py-2 text-sm font-medium transition-colors">Funcionalidades</a>
           <a href="#responsive" class="text-secondary-600 hover:text-primary-600 px-3 py-2 text-sm font-medium transition-colors">App</a>
           <a href="#pricing" class="text-secondary-600 hover:text-primary-600 px-3 py-2 text-sm font-medium transition-colors">Planos</a>
-          <a href="#contact" class="bg-primary-600 hover:bg-primary-700 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors">Contato</a>
+          <a href="#contact" class="text-secondary-600 hover:text-primary-600 px-3 py-2 text-sm font-medium transition-colors">Contato</a>
+          <a href="gestor.autorevise.com.br" class="bg-primary-50 hover:bg-accent-600 text-black px-4 py-2 rounded-lg text-sm font-medium transition-colors">Acessar Sistema</a>
         </div>
 
         <!-- Mobile Menu Button -->

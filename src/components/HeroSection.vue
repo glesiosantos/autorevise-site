@@ -30,14 +30,14 @@
         <div class="flex flex-wrap gap-4">
           <a 
             href="#pricing" 
-            class="bg-accent-500 hover:bg-accent-600 text-white font-medium px-6 py-3 rounded-lg text-lg transition-colors"
+            class="bg-accent-50 hover:bg-accent-600 text-black font-medium px-6 py-3 rounded-lg text-lg transition-colors"
           >
             Ver Planos
           </a>
           
           <a 
             href="#features" 
-            class="bg-white hover:bg-gray-100 text-primary-700 font-medium px-6 py-3 rounded-lg text-lg transition-colors"
+            class="bg-white hover:bg-gray-100 text-black font-medium px-6 py-3 rounded-lg text-lg transition-colors"
           >
             Conheça as Funcionalidades
           </a>
