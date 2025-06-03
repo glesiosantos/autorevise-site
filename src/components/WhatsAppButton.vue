@@ -3,7 +3,7 @@
 
 <template>
   <a 
-    href="https://wa.me/5511999999999" 
+    href="https://wa.me/5586999430230?text=Ol%C3%A1%20estou%20vindo%20do%20site%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%A3o%20da%20AutoRevise%20PRO" 
     target="_blank" 
     rel="noopener noreferrer" 
     class="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white rounded-full p-4 shadow-lg transition-all duration-300 hover:scale-110 z-50"

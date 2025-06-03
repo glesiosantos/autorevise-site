@@ -3,12 +3,12 @@ const currentYear = new Date().getFullYear();
 </script>
 
 <template>
-  <footer id="contact" class="bg-secondary-800 text-white pt-16 pb-8">
+  <footer id="contact" class="bg-black text-white pt-16 pb-8">
     <div class="container mx-auto container-padding max-w-5xl">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
         <div class="text-center md:text-left">
           <div class="flex items-center justify-center md:justify-start mb-6">
-            <img src="../assets/lo" alt="" srcset="">
+            <img src="../assets/logo_horizontal_pb.png"  alt="" srcset="">
           </div>
           <p class="text-secondary-300 mb-6">
             Solução completa para gestão de oficinas mecânicas que simplifica 
@@ -61,7 +61,7 @@ const currentYear = new Date().getFullYear();
                   d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z" 
                 />
               </svg>
-              <span class="text-secondary-300">(11) 99999-9999</span>
+              <span class="text-secondary-300">(86) 9.9943-0230</span>
             </li>
             <li class="flex items-start justify-center md:justify-start">
               <svg 
@@ -84,8 +84,8 @@ const currentYear = new Date().getFullYear();
                 />
               </svg>
               <span class="text-secondary-300">
-                Av. Paulista, 1000<br>
-                São Paulo, SP - Brasil
+                Rua Des. Caio Oliveira, 8115<br>
+                Teresina, PI - Brasil
               </span>
             </li>
           </ul>

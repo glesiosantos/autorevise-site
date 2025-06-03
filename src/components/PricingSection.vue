@@ -48,11 +48,11 @@ const plans = [
           v-for="plan in plans" 
           :key="plan.name"
           class="bg-white rounded-xl p-8 shadow-feature transition-all duration-300 hover:shadow-lg relative reveal"
-          :class="{ 'border-2 border-primary-500': plan.popular }"
+          :class="{ 'border-2 border-accent-600': plan.popular }"
         >
           <div 
             v-if="plan.popular" 
-            class="absolute top-0 right-8 -translate-y-1/2 bg-primary-500 text-white px-4 py-1 rounded-full text-sm font-medium"
+            class="absolute top-0 right-8 -translate-y-1/2 bg-accent-600 text-black px-4 py-1 rounded-full text-sm font-medium"
           >
             Mais Popular
           </div>
@@ -78,7 +78,7 @@ const plans = [
             >
               <svg 
                 xmlns="http://www.w3.org/2000/svg" 
-                class="h-5 w-5 text-primary-500 mr-3 flex-shrink-0" 
+                class="h-5 w-5 text-accent-600 mr-3 flex-shrink-0" 
                 viewBox="0 0 20 20" 
                 fill="currentColor"
               >
@@ -93,10 +93,11 @@ const plans = [
           </ul>
 
           <a 
-            href="#" 
+            target="_blank"
+            href="https://wa.me/5586999430230?text=Ol%C3%A1%20estou%20vindo%20do%20site%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%A3o%20da%20AutoRevise%20PRO" 
             class="block w-full text-center py-3 px-6 rounded-lg transition-colors"
             :class="plan.popular ? 
-              'bg-primary-600 hover:bg-primary-700 text-white' : 
+              'bg-black hover:bg-accent-600 text-white' : 
               'bg-secondary-100 hover:bg-secondary-200 text-secondary-800'"
           >
             Começar Agora
